@@ -49,13 +49,16 @@
 
 .wrapper header .headerbtn {
     display: block;
+    width: 50%;
+    padding: 5% 15%;
+    border: 3px solid #ddd;
+    margin: 24% auto;
     font-size: 26px;
     background-color: transparent;
     color: #ddd;
-    border: 3px solid #ddd;
-    margin: 18% auto;
-    padding: 5% 15%;
+    text-align: center;
     text-transform: uppercase;
+    text-decoration: none;
     font-family: 'Shadows Into Light Two', cursive;
     border-radius: 25%;
 }
